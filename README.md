@@ -1,8 +1,8 @@
 # ASD
 In this repo you will find some of my exercises implemented during the course Algoritmi e Strutture Dati (Data Structures and Algorithms, University of Genoa, 2022).
 These were created with two fellow students (@marti-malcuit and @mianlorenzo).
-<h3>Topics</h3>
-  1. 
+### Topics
+  1.     
   2.
   3.
   4.
